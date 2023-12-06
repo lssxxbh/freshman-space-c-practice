@@ -1,0 +1,2 @@
+﻿  FileName.cpp
+D:\VS2022\Project5\FileName.cpp(45,8): error C3874: “main”的返回类型应为“int”而非“double”

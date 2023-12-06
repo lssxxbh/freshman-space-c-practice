@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\VS2022\test_11_12\FileName.cpp(11,10): warning C4101: “b”: 未引用的局部变量
+D:\VS2022\test_11_12\FileName.cpp(11,6): warning C4101: “n”: 未引用的局部变量
+  test_11_12.vcxproj -> D:\VS2022\test_11_12\x64\Debug\test_11_12.exe
