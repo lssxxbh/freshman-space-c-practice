@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\VS2022\test_12_15\FileName.cpp(13,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2022\test_12_15\FileName.cpp(15,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2022\test_12_15\FileName.cpp(17,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test_12_15.vcxproj -> D:\VS2022\test_12_15\x64\Debug\test_12_15.exe
